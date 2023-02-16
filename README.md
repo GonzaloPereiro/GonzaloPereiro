@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Gonzalo Pereiro</h1>
 <h3 align="center">Me apasiona el mundo de la tecnologia y soy frontend developer y design UX de Argentina</h3>
 
-- Desarrollador front end **Freelancer**
+- Desarrollador **Front end and Design UX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
